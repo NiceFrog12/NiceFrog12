@@ -1,4 +1,8 @@
-## Hi there 👋
+# Hello Everyone!
+
+I am a hobbyist coder currently working on a couple of projects, primarily involving **Telegram bots**. In addition, I develop **websites** and **Discord bots** that integrate with databases.
+
+I speak **three languages**—English, German, and Russian—and I’d love to connect if you have an interesting idea that I can help bring to life!
 
 <!--
 **NiceFrog12/NiceFrog12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
